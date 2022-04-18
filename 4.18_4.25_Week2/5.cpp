@@ -19,5 +19,5 @@ int main( )
   int d2=atoi(dst2);
   int d3=atoi(dst3);
   printf("%d %d %d\n",d1,d2,d3);
-	return 0;
+  return 0;
 }
