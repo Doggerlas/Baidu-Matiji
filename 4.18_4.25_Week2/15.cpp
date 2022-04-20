@@ -7,11 +7,9 @@ using namespace std;
 
 int main( )
 {
-
 	int a, c;
   	char b,d;
 	scanf("a=%d,b=%c,c=%d,d=%c", &a, &b, &c ,&d);
 	printf("%d %c %d %c\n", a, b, c, d);
-
-    return 0;
+	return 0;
 }
