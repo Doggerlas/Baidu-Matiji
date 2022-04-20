@@ -1,6 +1,6 @@
 #include<bits/stdc++.h> 
 using namespace std;
-
+//用%e科学计数法输出一般只有两位，所以还是得自定义输出位数
 double a=3.1415926,b=12345678.123456789;
 void solve(double a)
 {
